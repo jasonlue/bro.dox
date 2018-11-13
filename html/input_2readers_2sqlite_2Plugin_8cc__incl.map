@@ -1,0 +1,34 @@
+<map id="/home/jasonlu/bro/src/input/readers/sqlite/Plugin.cc" name="/home/jasonlu/bro/src/input/readers/sqlite/Plugin.cc">
+<area shape="rect" id="node2" href="$plugin_2Plugin_8h.html" title="plugin/Plugin.h" alt="" coords="1384,109,1491,136"/>
+<area shape="rect" id="node44" href="$input_2readers_2sqlite_2SQLite_8h.html" title="SQLite.h" alt="" coords="142,259,215,285"/>
+<area shape="rect" id="node7" href="$analyzer_2Component_8h.html" title="analyzer/Component.h" alt="" coords="1145,184,1298,211"/>
+<area shape="rect" id="node38" href="$file__analysis_2Component_8h.html" title="file_analysis/Component.h" alt="" coords="1349,184,1525,211"/>
+<area shape="rect" id="node40" href="$iosource_2Component_8h.html" title="iosource/Component.h" alt="" coords="1693,423,1846,449"/>
+<area shape="rect" id="node41" href="$WriterBackend_8h.html" title="logging/WriterBackend.h" alt="" coords="707,341,871,367"/>
+<area shape="rect" id="node8" href="$analyzer_2Tag_8h.html" title="Tag.h" alt="" coords="991,259,1046,285"/>
+<area shape="rect" id="node9" href="$util_8h.html" title="util.h" alt="" coords="923,572,973,599"/>
+<area shape="rect" id="node24" href="$TaggedComponent_8h.html" title="plugin/TaggedComponent.h" alt="" coords="1289,497,1471,524"/>
+<area shape="rect" id="node36" href="$plugin_2Component_8h.html" title="plugin/Component.h" alt="" coords="1495,497,1633,524"/>
+<area shape="rect" id="node20" href="$Tag_8h.html" title="../Tag.h" alt="" coords="1099,497,1165,524"/>
+<area shape="rect" id="node26" href="$ComponentManager_8h.html" title="plugin/ComponentManager.h" alt="" coords="2094,341,2282,367"/>
+<area shape="rect" id="node18" href="$siphash24_8h.html" title="siphash24.h" alt="" coords="1291,647,1383,673"/>
+<area shape="rect" id="node19" href="$modp__numtoa_8h.html" title="modp_numtoa.h" alt="" coords="741,647,856,673"/>
+<area shape="rect" id="node21" href="$Type_8h.html" title="Type.h" alt="" coords="2317,572,2379,599"/>
+<area shape="rect" id="node22" href="$Attr_8h.html" title="Attr.h" alt="" coords="2243,647,2298,673"/>
+<area shape="rect" id="node23" href="$Dict_8h.html" title="Dict.h" alt="" coords="2426,647,2483,673"/>
+<area shape="rect" id="node27" href="$ID_8h.html" title="ID.h" alt="" coords="2111,497,2158,524"/>
+<area shape="rect" id="node28" href="$Val_8h.html" title="Val.h" alt="" coords="2226,423,2278,449"/>
+<area shape="rect" id="node30" href="$net__util_8h.html" title="net_util.h" alt="" coords="1657,497,1732,524"/>
+<area shape="rect" id="node31" href="$CompHash_8h.html" title="CompHash.h" alt="" coords="2308,497,2407,524"/>
+<area shape="rect" id="node32" href="$BroString_8h.html" title="BroString.h" alt="" coords="937,497,1023,524"/>
+<area shape="rect" id="node34" href="$Timer_8h.html" title="Timer.h" alt="" coords="2040,572,2107,599"/>
+<area shape="rect" id="node35" href="$Scope_8h.html" title="Scope.h" alt="" coords="2419,572,2490,599"/>
+<area shape="rect" id="node39" href="$file__analysis_2Tag_8h.html" title="Tag.h" alt="" coords="1410,259,1465,285"/>
+<area shape="rect" id="node42" href="$MsgThread_8h.html" title="threading/MsgThread.h" alt="" coords="656,497,811,524"/>
+<area shape="rect" id="node43" href="$logging_2Component_8h.html" title="Component.h" alt="" coords="1241,423,1341,449"/>
+<area shape="rect" id="node45" href="$ReaderBackend_8h.html" title="input/ReaderBackend.h" alt="" coords="1049,341,1207,367"/>
+<area shape="rect" id="node48" href="$threading_2formatters_2Ascii_8h.html" title="threading/formatters\l/Ascii.h" alt="" coords="341,333,480,375"/>
+<area shape="rect" id="node46" href="$threading_2SerialTypes_8h.html" title="threading/SerialTypes.h" alt="" coords="1870,423,2029,449"/>
+<area shape="rect" id="node47" href="$input_2Component_8h.html" title="Component.h" alt="" coords="1365,423,1465,449"/>
+<area shape="rect" id="node49" href="$Formatter_8h.html" title="../Formatter.h" alt="" coords="369,423,471,449"/>
+</map>

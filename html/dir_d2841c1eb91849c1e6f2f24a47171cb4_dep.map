@@ -1,0 +1,19 @@
+<map id="/home/jasonlu/bro/src/file_analysis/analyzer" name="/home/jasonlu/bro/src/file_analysis/analyzer">
+<area shape="rect" id="node2" href="dir_cd1ea79cb3afe870f1518edfce7dc629.html" title="data_event" alt="" coords="614,63,701,111"/>
+<area shape="rect" id="node9" href="dir_b3f5e646c7c9de8eab2c2f3343472809.html" title="plugin" alt="" coords="325,159,397,207"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000063_000007.html" title="1" alt="" coords="412,178,420,193"/>
+<area shape="rect" id="node3" href="dir_08610393813e5be71b9770beded47f07.html" title="entropy" alt="" coords="517,63,589,111"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000064_000007.html" title="1" alt="" coords="413,170,421,184"/>
+<area shape="rect" id="node4" href="dir_4fd637f9c99b55c9e103e8a2b6b253da.html" title="extract" alt="" coords="421,63,493,111"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000065_000007.html" title="1" alt="" coords="400,145,408,159"/>
+<area shape="rect" id="node5" href="dir_3cd6b6345d6337374bba368f2a56cd94.html" title="hash" alt="" coords="325,63,397,111"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000066_000007.html" title="1" alt="" coords="366,133,374,148"/>
+<area shape="rect" id="node6" href="dir_e87140706e82dbefe8e6fa8ac6b33716.html" title="pe" alt="" coords="229,63,301,111"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000067_000007.html" title="1" alt="" coords="327,132,335,147"/>
+<area shape="rect" id="node7" href="dir_b77d5ee36b9159610afeaa5b49867bfa.html" title="unified2" alt="" coords="133,63,205,111"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000068_000007.html" title="1" alt="" coords="306,153,314,168"/>
+<area shape="rect" id="node8" href="dir_8db9d458def7dabfcb7a96dc62c3a7bc.html" title="x509" alt="" coords="37,63,109,111"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000069_000007.html" title="1" alt="" coords="304,163,312,177"/>
+<area shape="rect" id="clust2" href="dir_d2841c1eb91849c1e6f2f24a47171cb4.html" alt="" coords="27,52,808,121"/>
+<area shape="rect" id="clust1" href="dir_dd2924c7718bed648b25143b34fd2d44.html" title="file_analysis" alt="" coords="16,16,819,132"/>
+</map>

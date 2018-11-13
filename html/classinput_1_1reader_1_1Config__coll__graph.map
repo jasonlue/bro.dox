@@ -1,0 +1,10 @@
+<map id="input::reader::Config" name="input::reader::Config">
+<area shape="rect" id="node2" href="$classinput_1_1ReaderBackend.html" title="input::ReaderBackend" alt="" coords="781,131,932,157"/>
+<area shape="rect" id="node8" href="$classinput_1_1ReaderFrontend.html" title="input::ReaderFrontend" alt="" coords="1060,148,1211,175"/>
+<area shape="rect" id="node3" href="$classthreading_1_1MsgThread.html" title="threading::MsgThread" alt="" coords="548,136,696,163"/>
+<area shape="rect" id="node4" href="$classthreading_1_1BasicThread.html" title="threading::BasicThread" alt="" coords="5,136,161,163"/>
+<area shape="rect" id="node5" href="$classthreading_1_1Queue.html" title="threading::Queue\&lt; threading\l::BasicInputMessage * \&gt;" alt="" coords="247,129,433,170"/>
+<area shape="rect" id="node6" href="$classthreading_1_1Queue.html" title="threading::Queue\&lt; threading\l::BasicOutputMessage * \&gt;" alt="" coords="247,194,433,235"/>
+<area shape="rect" id="node7" href="$structinput_1_1ReaderBackend_1_1ReaderInfo.html" title="input::ReaderBackend\l::ReaderInfo" alt="" coords="547,61,697,102"/>
+<area shape="rect" id="node9" href="$structthreading_1_1Field.html" title="threading::Field" alt="" coords="567,200,677,227"/>
+</map>

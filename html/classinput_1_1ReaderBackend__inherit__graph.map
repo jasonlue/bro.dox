@@ -1,0 +1,10 @@
+<map id="input::ReaderBackend" name="input::ReaderBackend">
+<area shape="rect" id="node4" href="$classinput_1_1reader_1_1Ascii.html" title="input::reader::Ascii" alt="" coords="623,5,753,32"/>
+<area shape="rect" id="node5" href="$classinput_1_1reader_1_1Benchmark.html" title="input::reader::Benchmark" alt="" coords="604,56,772,83"/>
+<area shape="rect" id="node6" href="$classinput_1_1reader_1_1Binary.html" title="input::reader::Binary" alt="" coords="619,107,757,133"/>
+<area shape="rect" id="node7" href="$classinput_1_1reader_1_1Config.html" title="input::reader::Config" alt="" coords="618,157,758,184"/>
+<area shape="rect" id="node8" href="$classinput_1_1reader_1_1Raw.html" title="input::reader::Raw" alt="" coords="623,208,753,235"/>
+<area shape="rect" id="node9" href="$classinput_1_1reader_1_1SQLite.html" title="input::reader::SQLite" alt="" coords="617,259,759,285"/>
+<area shape="rect" id="node2" href="$classthreading_1_1MsgThread.html" title="threading::MsgThread" alt="" coords="209,132,357,159"/>
+<area shape="rect" id="node3" href="$classthreading_1_1BasicThread.html" title="threading::BasicThread" alt="" coords="5,132,161,159"/>
+</map>

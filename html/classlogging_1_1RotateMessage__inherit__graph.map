@@ -1,0 +1,5 @@
+<map id="logging::RotateMessage" name="logging::RotateMessage">
+<area shape="rect" id="node2" href="$classthreading_1_1InputMessage.html" title="threading::InputMessage\l\&lt; WriterBackend \&gt;" alt="" coords="22,155,187,196"/>
+<area shape="rect" id="node3" href="$classthreading_1_1BasicInputMessage.html" title="threading::BasicInputMessage" alt="" coords="5,80,204,107"/>
+<area shape="rect" id="node4" href="$classthreading_1_1Message.html" title="threading::Message" alt="" coords="37,5,173,32"/>
+</map>

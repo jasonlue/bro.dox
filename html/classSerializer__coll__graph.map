@@ -1,0 +1,11 @@
+<map id="Serializer" name="Serializer">
+<area shape="rect" id="node2" href="$classChunkedIO.html" title="ChunkedIO" alt="" coords="37,297,125,323"/>
+<area shape="rect" id="node3" href="$structChunkedIO_1_1Statistics.html" title="ChunkedIO::Statistics" alt="" coords="5,178,156,205"/>
+<area shape="rect" id="node4" href="$classSerializationFormat.html" title="SerializationFormat" alt="" coords="149,297,284,323"/>
+<area shape="rect" id="node5" href="$classSerializationCache.html" title="SerializationCache" alt="" coords="309,297,439,323"/>
+<area shape="rect" id="node6" href="$structSerializationCache_1_1CacheList.html" title="SerializationCache\l::CacheList" alt="" coords="435,171,566,212"/>
+<area shape="rect" id="node7" href="$structSerializationCache_1_1CacheEntry.html" title="SerializationCache\l::CacheEntry" alt="" coords="533,289,663,331"/>
+<area shape="rect" id="node8" href="$classBroObj.html" title="BroObj" alt="" coords="663,178,725,205"/>
+<area shape="rect" id="node9" href="$classSerialObj.html" title="SerialObj" alt="" coords="643,5,718,32"/>
+<area shape="rect" id="node10" href="$classLocation.html" title="Location" alt="" coords="719,81,789,108"/>
+</map>

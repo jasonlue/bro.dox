@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classbroxygen_1_1Target.html" title="broxygen::Target" alt="" coords="5,132,125,159"/>
+<area shape="rect" id="node2" href="$classbroxygen_1_1AnalyzerTarget.html" title="broxygen::AnalyzerTarget" alt="" coords="189,31,360,57"/>
+<area shape="rect" id="node5" href="$classbroxygen_1_1IdentifierTarget.html" title="broxygen::IdentifierTarget" alt="" coords="189,81,360,108"/>
+<area shape="rect" id="node6" href="$classbroxygen_1_1PackageIndexTarget.html" title="broxygen::PackageIndexTarget" alt="" coords="173,132,376,159"/>
+<area shape="rect" id="node7" href="$classbroxygen_1_1PackageTarget.html" title="broxygen::PackageTarget" alt="" coords="189,183,360,209"/>
+<area shape="rect" id="node8" href="$classbroxygen_1_1ScriptTarget.html" title="broxygen::ScriptTarget" alt="" coords="197,233,352,260"/>
+<area shape="rect" id="node3" href="$classbroxygen_1_1FileAnalyzerTarget.html" title="broxygen::FileAnalyzerTarget" alt="" coords="433,5,625,32"/>
+<area shape="rect" id="node4" href="$classbroxygen_1_1ProtoAnalyzerTarget.html" title="broxygen::ProtoAnalyzerTarget" alt="" coords="428,56,631,83"/>
+<area shape="rect" id="node9" href="$classbroxygen_1_1ScriptIndexTarget.html" title="broxygen::ScriptIndexTarget" alt="" coords="436,208,623,235"/>
+<area shape="rect" id="node10" href="$classbroxygen_1_1ScriptSummaryTarget.html" title="broxygen::ScriptSummaryTarget" alt="" coords="424,259,635,285"/>
+</map>

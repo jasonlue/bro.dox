@@ -1,0 +1,27 @@
+<map id="/home/jasonlu/bro/src/logging/writers/none/None.h" name="/home/jasonlu/bro/src/logging/writers/none/None.h">
+<area shape="rect" id="node2" href="$WriterBackend_8h.html" title="logging/WriterBackend.h" alt="" coords="877,109,1041,136"/>
+<area shape="rect" id="node3" href="$MsgThread_8h.html" title="threading/MsgThread.h" alt="" coords="313,333,468,360"/>
+<area shape="rect" id="node41" href="$logging_2Component_8h.html" title="Component.h" alt="" coords="970,184,1070,211"/>
+<area shape="rect" id="node4" href="$DebugLogger_8h.html" title="DebugLogger.h" alt="" coords="278,408,389,435"/>
+<area shape="rect" id="node5" href="$BasicThread_8h.html" title="BasicThread.h" alt="" coords="5,483,112,509"/>
+<area shape="rect" id="node20" href="$threading_2Queue_8h.html" title="Queue.h" alt="" coords="413,408,483,435"/>
+<area shape="rect" id="node7" href="$util_8h.html" title="util.h" alt="" coords="1077,856,1128,883"/>
+<area shape="rect" id="node18" href="$siphash24_8h.html" title="siphash24.h" alt="" coords="947,931,1039,957"/>
+<area shape="rect" id="node19" href="$modp__numtoa_8h.html" title="modp_numtoa.h" alt="" coords="1167,931,1281,957"/>
+<area shape="rect" id="node26" href="$Reporter_8h.html" title="Reporter.h" alt="" coords="1508,483,1591,509"/>
+<area shape="rect" id="node32" href="$EventHandler_8h.html" title="EventHandler.h" alt="" coords="1187,557,1299,584"/>
+<area shape="rect" id="node36" href="$IPAddr_8h.html" title="IPAddr.h" alt="" coords="1845,557,1918,584"/>
+<area shape="rect" id="node34" href="$List_8h.html" title="List.h" alt="" coords="1258,781,1313,808"/>
+<area shape="rect" id="node35" href="$BroList_8h.html" title="BroList.h" alt="" coords="1307,707,1381,733"/>
+<area shape="rect" id="node39" href="$BroString_8h.html" title="BroString.h" alt="" coords="1634,781,1721,808"/>
+<area shape="rect" id="node40" href="$Type_8h.html" title="Type.h" alt="" coords="2161,632,2223,659"/>
+<area shape="rect" id="node42" href="$logging_2Tag_8h.html" title="Tag.h" alt="" coords="946,259,1001,285"/>
+<area shape="rect" id="node44" href="$TaggedComponent_8h.html" title="plugin/TaggedComponent.h" alt="" coords="995,333,1176,360"/>
+<area shape="rect" id="node50" href="$plugin_2Component_8h.html" title="plugin/Component.h" alt="" coords="2623,856,2761,883"/>
+<area shape="rect" id="node43" href="$Tag_8h.html" title="../Tag.h" alt="" coords="944,557,1011,584"/>
+<area shape="rect" id="node45" href="$ComponentManager_8h.html" title="plugin/ComponentManager.h" alt="" coords="2030,333,2218,360"/>
+<area shape="rect" id="node46" href="$ID_8h.html" title="ID.h" alt="" coords="2298,557,2345,584"/>
+<area shape="rect" id="node47" href="$Var_8h.html" title="Var.h" alt="" coords="2140,483,2193,509"/>
+<area shape="rect" id="node48" href="$Val_8h.html" title="Val.h" alt="" coords="2063,483,2115,509"/>
+<area shape="rect" id="node49" href="$broxygen_2Manager_8h.html" title="broxygen/Manager.h" alt="" coords="2202,408,2342,435"/>
+</map>

@@ -1,0 +1,47 @@
+<map id="logging::SetBufMessage" name="logging::SetBufMessage">
+<area shape="rect" id="node2" href="$classthreading_1_1InputMessage.html" title="threading::InputMessage\l\&lt; WriterBackend \&gt;" alt="" coords="85,604,250,645"/>
+<area shape="rect" id="node3" href="$classthreading_1_1BasicInputMessage.html" title="threading::BasicInputMessage" alt="" coords="5,499,204,525"/>
+<area shape="rect" id="node4" href="$classthreading_1_1Message.html" title="threading::Message" alt="" coords="10,401,146,427"/>
+<area shape="rect" id="node5" href="$classlogging_1_1WriterBackend.html" title="logging::WriterBackend" alt="" coords="242,499,399,525"/>
+<area shape="rect" id="node12" href="$classlogging_1_1WriterFrontend.html" title="logging::WriterFrontend" alt="" coords="374,611,531,638"/>
+<area shape="rect" id="node6" href="$classthreading_1_1MsgThread.html" title="threading::MsgThread" alt="" coords="169,401,317,427"/>
+<area shape="rect" id="node7" href="$classthreading_1_1BasicThread.html" title="threading::BasicThread" alt="" coords="165,171,321,197"/>
+<area shape="rect" id="node8" href="$classthreading_1_1Queue.html" title="threading::Queue\&lt; threading\l::BasicInputMessage * \&gt;" alt="" coords="281,275,467,316"/>
+<area shape="rect" id="node9" href="$classthreading_1_1Queue.html" title="threading::Queue\&lt; threading\l::BasicOutputMessage * \&gt;" alt="" coords="19,275,206,316"/>
+<area shape="rect" id="node10" href="$structlogging_1_1WriterBackend_1_1WriterInfo.html" title="logging::WriterBackend\l::WriterInfo" alt="" coords="477,393,634,435"/>
+<area shape="rect" id="node11" href="$structthreading_1_1Field.html" title="threading::Field" alt="" coords="341,401,452,427"/>
+<area shape="rect" id="node13" href="$structthreading_1_1Value.html" title="threading::Value" alt="" coords="703,499,819,525"/>
+<area shape="rect" id="node18" href="$structthreading_1_1Value_1_1set__t.html" title="False for optional record fields that are not set. " alt="" coords="807,611,960,638"/>
+<area shape="rect" id="node14" href="$unionthreading_1_1Value_1_1__val.html" title="threading::Value::_val" alt="" coords="809,723,957,749"/>
+<area shape="rect" id="node15" href="$structthreading_1_1Value_1_1subnet__t.html" title="threading::Value::subnet_t" alt="" coords="984,611,1159,638"/>
+<area shape="rect" id="node16" href="$structthreading_1_1Value_1_1addr__t.html" title="threading::Value::addr_t" alt="" coords="1071,499,1231,525"/>
+<area shape="rect" id="node17" href="$structthreading_1_1Value_1_1port__t.html" title="threading::Value::port_t" alt="" coords="555,611,713,638"/>
+<area shape="rect" id="node19" href="$classEnumVal.html" title="EnumVal" alt="" coords="601,499,675,525"/>
+<area shape="rect" id="node20" href="$classVal.html" title="Val" alt="" coords="1288,401,1329,427"/>
+<area shape="rect" id="node29" href="$classID.html" title="ID" alt="" coords="1591,499,1629,525"/>
+<area shape="rect" id="node21" href="$classBroObj.html" title="BroObj" alt="" coords="1959,171,2021,197"/>
+<area shape="rect" id="node25" href="$classFunc.html" title="Func" alt="" coords="1679,723,1730,749"/>
+<area shape="rect" id="node27" href="$classBroType.html" title="BroType" alt="" coords="1608,282,1679,309"/>
+<area shape="rect" id="node28" href="$classScope.html" title="Scope" alt="" coords="1519,611,1578,638"/>
+<area shape="rect" id="node30" href="$classAttributes.html" title="Attributes" alt="" coords="1772,401,1851,427"/>
+<area shape="rect" id="node32" href="$classBroFile.html" title="BroFile" alt="" coords="1933,499,1996,525"/>
+<area shape="rect" id="node39" href="$classDFA__Machine.html" title="DFA_Machine" alt="" coords="2439,499,2544,525"/>
+<area shape="rect" id="node41" href="$classDFA__State.html" title="DFA_State" alt="" coords="2079,401,2165,427"/>
+<area shape="rect" id="node44" href="$classNFA__Machine.html" title="NFA_Machine" alt="" coords="2679,401,2784,427"/>
+<area shape="rect" id="node45" href="$classNFA__State.html" title="NFA_State" alt="" coords="2651,282,2737,309"/>
+<area shape="rect" id="node22" href="$classSerialObj.html" title="SerialObj" alt="" coords="2138,5,2213,32"/>
+<area shape="rect" id="node23" href="$classLocation.html" title="Location" alt="" coords="2087,81,2157,108"/>
+<area shape="rect" id="node33" href="$classTimer.html" title="Timer" alt="" coords="2201,81,2256,108"/>
+<area shape="rect" id="node35" href="$classRE__Matcher.html" title="RE_Matcher" alt="" coords="2444,723,2539,749"/>
+<area shape="rect" id="node24" href="$unionBroValUnion.html" title="BroValUnion" alt="" coords="1975,812,2069,839"/>
+<area shape="rect" id="node31" href="$classIPAddr.html" title="IPAddr" alt="" coords="2051,611,2113,638"/>
+<area shape="rect" id="node47" href="$classIPPrefix.html" title="IPPrefix" alt="" coords="1993,723,2062,749"/>
+<area shape="rect" id="node34" href="$classPQ__Element.html" title="PQ_Element" alt="" coords="2905,5,3001,32"/>
+<area shape="rect" id="node36" href="$classSpecific__RE__Matcher.html" title="Specific_RE_Matcher" alt="" coords="2417,611,2566,638"/>
+<area shape="rect" id="node37" href="$classEquivClass.html" title="EquivClass" alt="" coords="2323,282,2412,309"/>
+<area shape="rect" id="node38" href="$classCCL.html" title="CCL" alt="" coords="2773,171,2823,197"/>
+<area shape="rect" id="node40" href="$classDFA__State__Cache.html" title="DFA_State_Cache" alt="" coords="2523,401,2655,427"/>
+<area shape="rect" id="node42" href="$structCacheEntry.html" title="CacheEntry" alt="" coords="2086,499,2177,525"/>
+<area shape="rect" id="node43" href="$classHashKey.html" title="HashKey" alt="" coords="2253,401,2329,427"/>
+<area shape="rect" id="node46" href="$classBroString.html" title="BroString" alt="" coords="2188,723,2264,749"/>
+</map>

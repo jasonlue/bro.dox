@@ -1,0 +1,9 @@
+<map id="plugin::Component" name="plugin::Component">
+<area shape="rect" id="node2" href="$classanalyzer_1_1Component.html" title="analyzer::Component" alt="" coords="217,5,363,32"/>
+<area shape="rect" id="node3" href="$classfile__analysis_1_1Component.html" title="file_analysis::Component" alt="" coords="205,56,375,83"/>
+<area shape="rect" id="node4" href="$classinput_1_1Component.html" title="input::Component" alt="" coords="227,107,353,133"/>
+<area shape="rect" id="node5" href="$classiosource_1_1Component.html" title="iosource::Component" alt="" coords="217,157,363,184"/>
+<area shape="rect" id="node7" href="$classiosource_1_1PktDumperComponent.html" title="iosource::PktDumperComponent" alt="" coords="184,208,396,235"/>
+<area shape="rect" id="node8" href="$classlogging_1_1Component.html" title="logging::Component" alt="" coords="221,259,359,285"/>
+<area shape="rect" id="node6" href="$classiosource_1_1PktSrcComponent.html" title="iosource::PktSrcComponent" alt="" coords="444,157,631,184"/>
+</map>

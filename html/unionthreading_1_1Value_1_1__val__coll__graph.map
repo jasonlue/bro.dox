@@ -1,0 +1,7 @@
+<map id="threading::Value::_val" name="threading::Value::_val">
+<area shape="rect" id="node6" href="$structthreading_1_1Value.html" title="threading::Value" alt="" coords="759,5,875,32"/>
+<area shape="rect" id="node2" href="$structthreading_1_1Value_1_1subnet__t.html" title="threading::Value::subnet_t" alt="" coords="251,51,425,77"/>
+<area shape="rect" id="node3" href="$structthreading_1_1Value_1_1addr__t.html" title="threading::Value::addr_t" alt="" coords="5,13,165,40"/>
+<area shape="rect" id="node4" href="$structthreading_1_1Value_1_1port__t.html" title="threading::Value::port_t" alt="" coords="259,101,417,128"/>
+<area shape="rect" id="node5" href="$structthreading_1_1Value_1_1set__t.html" title="False for optional record fields that are not set. " alt="" coords="952,45,1105,72"/>
+</map>

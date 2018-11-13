@@ -1,0 +1,7 @@
+<map id="SocketComm" name="SocketComm">
+<area shape="rect" id="node2" href="$structSocketComm_1_1Peer.html" title="SocketComm::Peer" alt="" coords="116,185,253,212"/>
+<area shape="rect" id="node3" href="$classIPAddr.html" title="IPAddr" alt="" coords="153,95,216,121"/>
+<area shape="rect" id="node4" href="$classChunkedIO.html" title="ChunkedIO" alt="" coords="37,95,125,121"/>
+<area shape="rect" id="node5" href="$structChunkedIO_1_1Statistics.html" title="ChunkedIO::Statistics" alt="" coords="5,5,156,32"/>
+<area shape="rect" id="node7" href="$structChunkedIO_1_1Chunk.html" title="ChunkedIO::Chunk" alt="" coords="415,185,549,212"/>
+</map>

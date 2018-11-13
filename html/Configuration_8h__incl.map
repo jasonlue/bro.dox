@@ -1,0 +1,27 @@
+<map id="/home/jasonlu/bro/src/broxygen/Configuration.h" name="/home/jasonlu/bro/src/broxygen/Configuration.h">
+<area shape="rect" id="node2" href="$Info_8h.html" title="Info.h" alt="" coords="181,319,235,345"/>
+<area shape="rect" id="node5" href="$Target_8h.html" title="Target.h" alt="" coords="537,95,607,121"/>
+<area shape="rect" id="node6" href="$PackageInfo_8h.html" title="PackageInfo.h" alt="" coords="245,244,352,271"/>
+<area shape="rect" id="node8" href="$ScriptInfo_8h.html" title="ScriptInfo.h" alt="" coords="527,169,617,196"/>
+<area shape="rect" id="node9" href="$IdentifierInfo_8h.html" title="IdentifierInfo.h" alt="" coords="610,244,715,271"/>
+<area shape="rect" id="node10" href="$ID_8h.html" title="ID.h" alt="" coords="766,319,813,345"/>
+<area shape="rect" id="node11" href="$Type_8h.html" title="Type.h" alt="" coords="926,393,989,420"/>
+<area shape="rect" id="node40" href="$Attr_8h.html" title="Attr.h" alt="" coords="886,468,941,495"/>
+<area shape="rect" id="node43" href="$StateAccess_8h.html" title="StateAccess.h" alt="" coords="781,543,889,569"/>
+<area shape="rect" id="node44" href="$TraverseTypes_8h.html" title="TraverseTypes.h" alt="" coords="680,393,800,420"/>
+<area shape="rect" id="node15" href="$Obj_8h.html" title="Obj.h" alt="" coords="964,543,1017,569"/>
+<area shape="rect" id="node18" href="$BroList_8h.html" title="BroList.h" alt="" coords="1388,692,1463,719"/>
+<area shape="rect" id="node41" href="$Dict_8h.html" title="Dict.h" alt="" coords="1471,617,1529,644"/>
+<area shape="rect" id="node17" href="$input_8h.html" title="input.h" alt="" coords="1292,617,1353,644"/>
+<area shape="rect" id="node31" href="$Desc_8h.html" title="Desc.h" alt="" coords="1204,617,1268,644"/>
+<area shape="rect" id="node36" href="$SerialObj_8h.html" title="SerialObj.h" alt="" coords="793,617,879,644"/>
+<area shape="rect" id="node19" href="$List_8h.html" title="List.h" alt="" coords="1198,767,1253,793"/>
+<area shape="rect" id="node21" href="$util_8h.html" title="util.h" alt="" coords="1137,841,1188,868"/>
+<area shape="rect" id="node29" href="$siphash24_8h.html" title="siphash24.h" alt="" coords="1003,916,1095,943"/>
+<area shape="rect" id="node30" href="$modp__numtoa_8h.html" title="modp_numtoa.h" alt="" coords="1273,916,1388,943"/>
+<area shape="rect" id="node33" href="$BroString_8h.html" title="BroString.h" alt="" coords="1319,767,1406,793"/>
+<area shape="rect" id="node37" href="$DebugLogger_8h.html" title="DebugLogger.h" alt="" coords="651,692,762,719"/>
+<area shape="rect" id="node38" href="$Continuation_8h.html" title="Continuation.h" alt="" coords="964,692,1071,719"/>
+<area shape="rect" id="node39" href="$SerialTypes_8h.html" title="SerialTypes.h" alt="" coords="786,692,889,719"/>
+<area shape="rect" id="node42" href="$Hash_8h.html" title="Hash.h" alt="" coords="1537,692,1601,719"/>
+</map>

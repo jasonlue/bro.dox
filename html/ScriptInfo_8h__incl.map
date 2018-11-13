@@ -1,0 +1,24 @@
+<map id="/home/jasonlu/bro/src/broxygen/ScriptInfo.h" name="/home/jasonlu/bro/src/broxygen/ScriptInfo.h">
+<area shape="rect" id="node2" href="$Info_8h.html" title="Info.h" alt="" coords="109,169,163,196"/>
+<area shape="rect" id="node5" href="$IdentifierInfo_8h.html" title="IdentifierInfo.h" alt="" coords="481,95,586,121"/>
+<area shape="rect" id="node6" href="$ID_8h.html" title="ID.h" alt="" coords="510,169,557,196"/>
+<area shape="rect" id="node7" href="$Type_8h.html" title="Type.h" alt="" coords="713,244,775,271"/>
+<area shape="rect" id="node37" href="$Attr_8h.html" title="Attr.h" alt="" coords="561,319,615,345"/>
+<area shape="rect" id="node40" href="$StateAccess_8h.html" title="StateAccess.h" alt="" coords="326,393,434,420"/>
+<area shape="rect" id="node41" href="$TraverseTypes_8h.html" title="TraverseTypes.h" alt="" coords="376,244,496,271"/>
+<area shape="rect" id="node11" href="$Obj_8h.html" title="Obj.h" alt="" coords="821,393,875,420"/>
+<area shape="rect" id="node15" href="$BroList_8h.html" title="BroList.h" alt="" coords="993,543,1068,569"/>
+<area shape="rect" id="node38" href="$Dict_8h.html" title="Dict.h" alt="" coords="1059,468,1117,495"/>
+<area shape="rect" id="node13" href="$input_8h.html" title="input.h" alt="" coords="835,468,896,495"/>
+<area shape="rect" id="node28" href="$Desc_8h.html" title="Desc.h" alt="" coords="1141,468,1205,495"/>
+<area shape="rect" id="node33" href="$SerialObj_8h.html" title="SerialObj.h" alt="" coords="655,468,742,495"/>
+<area shape="rect" id="node16" href="$List_8h.html" title="List.h" alt="" coords="885,617,939,644"/>
+<area shape="rect" id="node18" href="$util_8h.html" title="util.h" alt="" coords="887,692,937,719"/>
+<area shape="rect" id="node26" href="$siphash24_8h.html" title="siphash24.h" alt="" coords="613,767,705,793"/>
+<area shape="rect" id="node27" href="$modp__numtoa_8h.html" title="modp_numtoa.h" alt="" coords="883,767,997,793"/>
+<area shape="rect" id="node30" href="$BroString_8h.html" title="BroString.h" alt="" coords="1193,617,1279,644"/>
+<area shape="rect" id="node34" href="$DebugLogger_8h.html" title="DebugLogger.h" alt="" coords="449,543,559,569"/>
+<area shape="rect" id="node35" href="$Continuation_8h.html" title="Continuation.h" alt="" coords="812,543,919,569"/>
+<area shape="rect" id="node36" href="$SerialTypes_8h.html" title="SerialTypes.h" alt="" coords="583,543,686,569"/>
+<area shape="rect" id="node39" href="$Hash_8h.html" title="Hash.h" alt="" coords="1193,543,1257,569"/>
+</map>

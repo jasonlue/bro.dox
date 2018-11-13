@@ -1,0 +1,27 @@
+<map id="/home/jasonlu/bro/src/logging/writers/ascii/Ascii.h" name="/home/jasonlu/bro/src/logging/writers/ascii/Ascii.h">
+<area shape="rect" id="node2" href="$WriterBackend_8h.html" title="logging/WriterBackend.h" alt="" coords="830,117,994,143"/>
+<area shape="rect" id="node46" href="$threading_2formatters_2Ascii_8h.html" title="threading/formatters\l/Ascii.h" alt="" coords="504,109,642,151"/>
+<area shape="rect" id="node49" href="$JSON_8h.html" title="threading/formatters\l/JSON.h" alt="" coords="666,109,805,151"/>
+<area shape="rect" id="node3" href="$MsgThread_8h.html" title="threading/MsgThread.h" alt="" coords="501,273,656,300"/>
+<area shape="rect" id="node38" href="$logging_2Component_8h.html" title="Component.h" alt="" coords="1236,199,1336,225"/>
+<area shape="rect" id="node4" href="$DebugLogger_8h.html" title="DebugLogger.h" alt="" coords="454,348,564,375"/>
+<area shape="rect" id="node5" href="$BasicThread_8h.html" title="BasicThread.h" alt="" coords="549,423,656,449"/>
+<area shape="rect" id="node20" href="$threading_2Queue_8h.html" title="Queue.h" alt="" coords="344,348,415,375"/>
+<area shape="rect" id="node7" href="$util_8h.html" title="util.h" alt="" coords="746,647,797,673"/>
+<area shape="rect" id="node18" href="$siphash24_8h.html" title="siphash24.h" alt="" coords="807,721,899,748"/>
+<area shape="rect" id="node19" href="$modp__numtoa_8h.html" title="modp_numtoa.h" alt="" coords="1026,721,1141,748"/>
+<area shape="rect" id="node26" href="$Reporter_8h.html" title="Reporter.h" alt="" coords="1000,423,1082,449"/>
+<area shape="rect" id="node32" href="$EventHandler_8h.html" title="EventHandler.h" alt="" coords="1116,497,1228,524"/>
+<area shape="rect" id="node34" href="$IPAddr_8h.html" title="IPAddr.h" alt="" coords="967,497,1040,524"/>
+<area shape="rect" id="node35" href="$BroString_8h.html" title="BroString.h" alt="" coords="568,572,655,599"/>
+<area shape="rect" id="node36" href="$Type_8h.html" title="Type.h" alt="" coords="1602,572,1664,599"/>
+<area shape="rect" id="node39" href="$logging_2Tag_8h.html" title="Tag.h" alt="" coords="1323,273,1378,300"/>
+<area shape="rect" id="node41" href="$TaggedComponent_8h.html" title="plugin/TaggedComponent.h" alt="" coords="1148,348,1329,375"/>
+<area shape="rect" id="node45" href="$plugin_2Component_8h.html" title="plugin/Component.h" alt="" coords="1641,273,1780,300"/>
+<area shape="rect" id="node40" href="$Tag_8h.html" title="../Tag.h" alt="" coords="1454,497,1521,524"/>
+<area shape="rect" id="node42" href="$ComponentManager_8h.html" title="plugin/ComponentManager.h" alt="" coords="1588,348,1776,375"/>
+<area shape="rect" id="node43" href="$ID_8h.html" title="ID.h" alt="" coords="1546,497,1592,524"/>
+<area shape="rect" id="node44" href="$Var_8h.html" title="Var.h" alt="" coords="1606,423,1660,449"/>
+<area shape="rect" id="node47" href="$Formatter_8h.html" title="../Formatter.h" alt="" coords="585,199,686,225"/>
+<area shape="rect" id="node48" href="$Desc_8h.html" title="Desc.h" alt="" coords="485,497,549,524"/>
+</map>

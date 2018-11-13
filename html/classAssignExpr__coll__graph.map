@@ -1,0 +1,31 @@
+<map id="AssignExpr" name="AssignExpr">
+<area shape="rect" id="node2" href="$classBinaryExpr.html" title="BinaryExpr" alt="" coords="671,472,758,499"/>
+<area shape="rect" id="node3" href="$classExpr.html" title="Expr" alt="" coords="699,365,749,392"/>
+<area shape="rect" id="node4" href="$classBroObj.html" title="BroObj" alt="" coords="666,171,729,197"/>
+<area shape="rect" id="node7" href="$classBroType.html" title="BroType" alt="" coords="445,260,515,287"/>
+<area shape="rect" id="node9" href="$classVal.html" title="Val" alt="" coords="775,365,817,392"/>
+<area shape="rect" id="node11" href="$classFunc.html" title="Func" alt="" coords="404,667,455,693"/>
+<area shape="rect" id="node12" href="$classScope.html" title="Scope" alt="" coords="493,563,552,589"/>
+<area shape="rect" id="node13" href="$classID.html" title="ID" alt="" coords="546,472,585,499"/>
+<area shape="rect" id="node14" href="$classAttributes.html" title="Attributes" alt="" coords="262,365,341,392"/>
+<area shape="rect" id="node16" href="$classBroFile.html" title="BroFile" alt="" coords="65,472,127,499"/>
+<area shape="rect" id="node23" href="$classDFA__Machine.html" title="DFA_Machine" alt="" coords="1235,472,1341,499"/>
+<area shape="rect" id="node25" href="$classDFA__State.html" title="DFA_State" alt="" coords="941,365,1027,392"/>
+<area shape="rect" id="node28" href="$classNFA__Machine.html" title="NFA_Machine" alt="" coords="1442,365,1547,392"/>
+<area shape="rect" id="node29" href="$classNFA__State.html" title="NFA_State" alt="" coords="1451,260,1538,287"/>
+<area shape="rect" id="node5" href="$classSerialObj.html" title="SerialObj" alt="" coords="657,5,732,32"/>
+<area shape="rect" id="node6" href="$classLocation.html" title="Location" alt="" coords="714,81,785,108"/>
+<area shape="rect" id="node17" href="$classTimer.html" title="Timer" alt="" coords="130,81,185,108"/>
+<area shape="rect" id="node19" href="$classRE__Matcher.html" title="RE_Matcher" alt="" coords="1398,667,1493,693"/>
+<area shape="rect" id="node10" href="$unionBroValUnion.html" title="BroValUnion" alt="" coords="885,756,979,783"/>
+<area shape="rect" id="node15" href="$classIPAddr.html" title="IPAddr" alt="" coords="950,563,1013,589"/>
+<area shape="rect" id="node31" href="$classIPPrefix.html" title="IPPrefix" alt="" coords="903,667,972,693"/>
+<area shape="rect" id="node18" href="$classPQ__Element.html" title="PQ_Element" alt="" coords="109,5,205,32"/>
+<area shape="rect" id="node20" href="$classSpecific__RE__Matcher.html" title="Specific_RE_Matcher" alt="" coords="1371,563,1520,589"/>
+<area shape="rect" id="node21" href="$classEquivClass.html" title="EquivClass" alt="" coords="1286,260,1375,287"/>
+<area shape="rect" id="node22" href="$classCCL.html" title="CCL" alt="" coords="1574,171,1623,197"/>
+<area shape="rect" id="node24" href="$classDFA__State__Cache.html" title="DFA_State_Cache" alt="" coords="1167,365,1299,392"/>
+<area shape="rect" id="node26" href="$structCacheEntry.html" title="CacheEntry" alt="" coords="903,472,993,499"/>
+<area shape="rect" id="node27" href="$classHashKey.html" title="HashKey" alt="" coords="841,365,917,392"/>
+<area shape="rect" id="node30" href="$classBroString.html" title="BroString" alt="" coords="1098,667,1174,693"/>
+</map>

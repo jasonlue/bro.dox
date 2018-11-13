@@ -1,0 +1,4 @@
+<map id="nb_dns_info" name="nb_dns_info">
+<area shape="rect" id="node2" href="$structnb__dns__hostent.html" title="nb_dns_hostent" alt="" coords="5,5,120,32"/>
+<area shape="rect" id="node3" href="$structnb__dns__entry.html" title="nb_dns_entry" alt="" coords="145,5,245,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classManager_1_1Stream.html" title="logging::Manager::Stream" alt="" coords="5,71,176,98"/>
+<area shape="rect" id="node2" href="$classManager_1_1AnalysisStream.html" title="input::Manager::Analysis\lStream" alt="" coords="237,5,403,47"/>
+<area shape="rect" id="node3" href="$classManager_1_1EventStream.html" title="input::Manager::EventStream" alt="" coords="224,71,416,98"/>
+<area shape="rect" id="node4" href="$classManager_1_1TableStream.html" title="input::Manager::TableStream" alt="" coords="225,122,415,149"/>
+</map>

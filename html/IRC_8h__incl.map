@@ -1,0 +1,36 @@
+<map id="/home/jasonlu/bro/src/analyzer/protocol/irc/IRC.h" name="/home/jasonlu/bro/src/analyzer/protocol/irc/IRC.h">
+<area shape="rect" id="node2" href="$TCP_8h.html" title="analyzer/protocol/tcp\l/TCP.h" alt="" coords="1521,184,1663,225"/>
+<area shape="rect" id="node50" href="$ContentLine_8h.html" title="analyzer/protocol/tcp\l/ContentLine.h" alt="" coords="1575,95,1718,136"/>
+<area shape="rect" id="node3" href="$analyzer_2Analyzer_8h.html" title="analyzer/Analyzer.h" alt="" coords="2014,348,2151,375"/>
+<area shape="rect" id="node32" href="$IPAddr_8h.html" title="IPAddr.h" alt="" coords="379,647,453,673"/>
+<area shape="rect" id="node38" href="$PacketDumper_8h.html" title="PacketDumper.h" alt="" coords="2121,796,2241,823"/>
+<area shape="rect" id="node41" href="$TCP__Endpoint_8h.html" title="TCP_Endpoint.h" alt="" coords="254,423,373,449"/>
+<area shape="rect" id="node42" href="$TCP__Flags_8h.html" title="TCP_Flags.h" alt="" coords="2420,273,2519,300"/>
+<area shape="rect" id="node43" href="$Conn_8h.html" title="Conn.h" alt="" coords="1373,273,1437,300"/>
+<area shape="rect" id="node5" href="$analyzer_2Tag_8h.html" title="Tag.h" alt="" coords="2162,423,2217,449"/>
+<area shape="rect" id="node13" href="$Obj_8h.html" title="Obj.h" alt="" coords="1467,871,1520,897"/>
+<area shape="rect" id="node29" href="$Timer_8h.html" title="Timer.h" alt="" coords="1956,871,2023,897"/>
+<area shape="rect" id="node36" href="$EventHandler_8h.html" title="EventHandler.h" alt="" coords="2504,945,2616,972"/>
+<area shape="rect" id="node7" href="$util_8h.html" title="util.h" alt="" coords="1507,1169,1557,1196"/>
+<area shape="rect" id="node10" href="$Tag_8h.html" title="../Tag.h" alt="" coords="1877,721,1944,748"/>
+<area shape="rect" id="node25" href="$TaggedComponent_8h.html" title="plugin/TaggedComponent.h" alt="" coords="2361,647,2543,673"/>
+<area shape="rect" id="node27" href="$ComponentManager_8h.html" title="plugin/ComponentManager.h" alt="" coords="1594,497,1782,524"/>
+<area shape="rect" id="node11" href="$Type_8h.html" title="Type.h" alt="" coords="1305,796,1367,823"/>
+<area shape="rect" id="node16" href="$BroList_8h.html" title="BroList.h" alt="" coords="1595,1020,1669,1047"/>
+<area shape="rect" id="node23" href="$Dict_8h.html" title="Dict.h" alt="" coords="1190,871,1247,897"/>
+<area shape="rect" id="node15" href="$input_8h.html" title="input.h" alt="" coords="1668,945,1729,972"/>
+<area shape="rect" id="node18" href="$Desc_8h.html" title="Desc.h" alt="" coords="1428,945,1492,972"/>
+<area shape="rect" id="node22" href="$SerialObj_8h.html" title="SerialObj.h" alt="" coords="1907,1095,1994,1121"/>
+<area shape="rect" id="node17" href="$List_8h.html" title="List.h" alt="" coords="1505,1095,1559,1121"/>
+<area shape="rect" id="node19" href="$BroString_8h.html" title="BroString.h" alt="" coords="674,1020,761,1047"/>
+<area shape="rect" id="node24" href="$Hash_8h.html" title="Hash.h" alt="" coords="616,945,680,972"/>
+<area shape="rect" id="node28" href="$Val_8h.html" title="Val.h" alt="" coords="1214,572,1266,599"/>
+<area shape="rect" id="node30" href="$PriorityQueue_8h.html" title="PriorityQueue.h" alt="" coords="1855,945,1967,972"/>
+<area shape="rect" id="node31" href="$cq_8h.html" title="cq.h" alt="" coords="2042,945,2089,972"/>
+<area shape="rect" id="node35" href="$threading_2SerialTypes_8h.html" title="threading/SerialTypes.h" alt="" coords="195,721,354,748"/>
+<area shape="rect" id="node45" href="$Serializer_8h.html" title="Serializer.h" alt="" coords="1743,796,1830,823"/>
+<area shape="rect" id="node46" href="$PersistenceSerializer_8h.html" title="PersistenceSerializer.h" alt="" coords="1545,721,1701,748"/>
+<area shape="rect" id="node47" href="$RuleMatcher_8h.html" title="RuleMatcher.h" alt="" coords="603,572,709,599"/>
+<area shape="rect" id="node48" href="$TunnelEncapsulation_8h.html" title="TunnelEncapsulation.h" alt="" coords="1032,497,1187,524"/>
+<area shape="rect" id="node49" href="$UID_8h.html" title="UID.h" alt="" coords="963,647,1021,673"/>
+</map>

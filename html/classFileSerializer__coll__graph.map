@@ -1,0 +1,12 @@
+<map id="FileSerializer" name="FileSerializer">
+<area shape="rect" id="node2" href="$classSerializer.html" title="Serializer" alt="" coords="215,393,291,420"/>
+<area shape="rect" id="node3" href="$classChunkedIO.html" title="ChunkedIO" alt="" coords="37,297,125,323"/>
+<area shape="rect" id="node4" href="$structChunkedIO_1_1Statistics.html" title="ChunkedIO::Statistics" alt="" coords="5,178,156,205"/>
+<area shape="rect" id="node5" href="$classSerializationFormat.html" title="SerializationFormat" alt="" coords="149,297,284,323"/>
+<area shape="rect" id="node6" href="$classSerializationCache.html" title="SerializationCache" alt="" coords="319,297,450,323"/>
+<area shape="rect" id="node7" href="$structSerializationCache_1_1CacheList.html" title="SerializationCache\l::CacheList" alt="" coords="446,171,577,212"/>
+<area shape="rect" id="node8" href="$structSerializationCache_1_1CacheEntry.html" title="SerializationCache\l::CacheEntry" alt="" coords="543,289,674,331"/>
+<area shape="rect" id="node9" href="$classBroObj.html" title="BroObj" alt="" coords="673,178,736,205"/>
+<area shape="rect" id="node10" href="$classSerialObj.html" title="SerialObj" alt="" coords="654,5,729,32"/>
+<area shape="rect" id="node11" href="$classLocation.html" title="Location" alt="" coords="729,81,800,108"/>
+</map>

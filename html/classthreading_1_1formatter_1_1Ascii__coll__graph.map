@@ -1,0 +1,8 @@
+<map id="threading::formatter::Ascii" name="threading::formatter::Ascii">
+<area shape="rect" id="node2" href="$classthreading_1_1formatter_1_1Formatter.html" title="threading::formatter\l::Formatter" alt="" coords="828,35,963,76"/>
+<area shape="rect" id="node3" href="$classthreading_1_1MsgThread.html" title="threading::MsgThread" alt="" coords="547,36,695,62"/>
+<area shape="rect" id="node4" href="$classthreading_1_1BasicThread.html" title="threading::BasicThread" alt="" coords="5,36,161,62"/>
+<area shape="rect" id="node5" href="$classthreading_1_1Queue.html" title="threading::Queue\&lt; threading\l::BasicInputMessage * \&gt;" alt="" coords="247,28,433,70"/>
+<area shape="rect" id="node6" href="$classthreading_1_1Queue.html" title="threading::Queue\&lt; threading\l::BasicOutputMessage * \&gt;" alt="" coords="247,94,433,135"/>
+<area shape="rect" id="node7" href="$structthreading_1_1formatter_1_1Ascii_1_1SeparatorInfo.html" title="threading::formatter\l::Ascii::SeparatorInfo" alt="" coords="823,106,968,147"/>
+</map>

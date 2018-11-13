@@ -1,0 +1,5 @@
+<map id="logging::writer::SQLite" name="logging::writer::SQLite">
+<area shape="rect" id="node2" href="$classlogging_1_1WriterBackend.html" title="logging::WriterBackend" alt="" coords="5,155,163,181"/>
+<area shape="rect" id="node3" href="$classthreading_1_1MsgThread.html" title="threading::MsgThread" alt="" coords="10,80,158,107"/>
+<area shape="rect" id="node4" href="$classthreading_1_1BasicThread.html" title="threading::BasicThread" alt="" coords="6,5,162,32"/>
+</map>

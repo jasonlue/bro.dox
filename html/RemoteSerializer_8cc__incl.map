@@ -1,0 +1,30 @@
+<map id="/home/jasonlu/bro/src/RemoteSerializer.cc" name="/home/jasonlu/bro/src/RemoteSerializer.cc">
+<area shape="rect" id="node21" href="$RemoteSerializer_8h.html" title="RemoteSerializer.h" alt="" coords="1117,169,1251,196"/>
+<area shape="rect" id="node26" href="$Reporter_8h.html" title="Reporter.h" alt="" coords="1885,319,1968,345"/>
+<area shape="rect" id="node30" href="$IPAddr_8h.html" title="IPAddr.h" alt="" coords="2309,393,2382,420"/>
+<area shape="rect" id="node32" href="$File_8h.html" title="File.h" alt="" coords="1293,244,1347,271"/>
+<area shape="rect" id="node35" href="$Func_8h.html" title="Func.h" alt="" coords="847,319,910,345"/>
+<area shape="rect" id="node37" href="$EventRegistry_8h.html" title="EventRegistry.h" alt="" coords="710,244,826,271"/>
+<area shape="rect" id="node38" href="$Event_8h.html" title="Event.h" alt="" coords="1893,169,1960,196"/>
+<area shape="rect" id="node41" href="$Net_8h.html" title="Net.h" alt="" coords="974,95,1029,121"/>
+<area shape="rect" id="node42" href="$NetVar_8h.html" title="NetVar.h" alt="" coords="635,169,709,196"/>
+<area shape="rect" id="node43" href="$Scope_8h.html" title="Scope.h" alt="" coords="1321,319,1391,345"/>
+<area shape="rect" id="node44" href="$Sessions_8h.html" title="Sessions.h" alt="" coords="477,95,563,121"/>
+<area shape="rect" id="node45" href="$Conn_8h.html" title="Conn.h" alt="" coords="2008,169,2072,196"/>
+<area shape="rect" id="node46" href="$bro__inet__ntop_8h.html" title="bro_inet_ntop.h" alt="" coords="159,95,270,121"/>
+<area shape="rect" id="node47" href="$iosource_2Manager_8h.html" title="iosource/Manager.h" alt="" coords="1733,169,1869,196"/>
+<area shape="rect" id="node48" href="$logging_2Manager_8h.html" title="logging/Manager.h" alt="" coords="1224,95,1352,121"/>
+<area shape="rect" id="node50" href="$setsignal_8h.html" title="setsignal.h" alt="" coords="3560,95,3645,121"/>
+<area shape="rect" id="node22" href="$Dict_8h.html" title="Dict.h" alt="" coords="863,468,921,495"/>
+<area shape="rect" id="node23" href="$List_8h.html" title="List.h" alt="" coords="1137,543,1191,569"/>
+<area shape="rect" id="node24" href="$Serializer_8h.html" title="Serializer.h" alt="" coords="1677,244,1763,271"/>
+<area shape="rect" id="node25" href="$IOSource_8h.html" title="iosource/IOSource.h" alt="" coords="1517,319,1659,345"/>
+<area shape="rect" id="node31" href="$Stats_8h.html" title="Stats.h" alt="" coords="317,244,381,271"/>
+<area shape="rect" id="node34" href="$WriterBackend_8h.html" title="logging/WriterBackend.h" alt="" coords="1105,244,1269,271"/>
+<area shape="rect" id="node28" href="$EventHandler_8h.html" title="EventHandler.h" alt="" coords="1520,393,1632,420"/>
+<area shape="rect" id="node29" href="$BroList_8h.html" title="BroList.h" alt="" coords="1224,468,1299,495"/>
+<area shape="rect" id="node33" href="$Obj_8h.html" title="Obj.h" alt="" coords="1240,393,1293,420"/>
+<area shape="rect" id="node36" href="$Debug_8h.html" title="Debug.h" alt="" coords="857,393,927,420"/>
+<area shape="rect" id="node39" href="$analyzer_2Tag_8h.html" title="analyzer/Tag.h" alt="" coords="1993,319,2101,345"/>
+<area shape="rect" id="node40" href="$analyzer_2Analyzer_8h.html" title="analyzer/Analyzer.h" alt="" coords="1839,244,1977,271"/>
+</map>

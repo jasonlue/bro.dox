@@ -1,0 +1,7 @@
+<map id="Serializer" name="Serializer">
+<area shape="rect" id="node2" href="$classCloneSerializer.html" title="CloneSerializer" alt="" coords="5,80,116,107"/>
+<area shape="rect" id="node3" href="$classFileSerializer.html" title="FileSerializer" alt="" coords="140,80,237,107"/>
+<area shape="rect" id="node6" href="$classRemoteSerializer.html" title="RemoteSerializer" alt="" coords="262,80,385,107"/>
+<area shape="rect" id="node4" href="$classEventPlayer.html" title="EventPlayer" alt="" coords="70,155,163,181"/>
+<area shape="rect" id="node5" href="$classPersistenceSerializer.html" title="PersistenceSerializer" alt="" coords="188,155,333,181"/>
+</map>

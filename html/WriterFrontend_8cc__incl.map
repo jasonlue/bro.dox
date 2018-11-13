@@ -1,0 +1,25 @@
+<map id="/home/jasonlu/bro/src/logging/WriterFrontend.cc" name="/home/jasonlu/bro/src/logging/WriterFrontend.cc">
+<area shape="rect" id="node2" href="$Net_8h.html" title="Net.h" alt="" coords="1198,244,1253,271"/>
+<area shape="rect" id="node26" href="$WriterBackend_8h.html" title="logging/WriterBackend.h" alt="" coords="2634,393,2798,420"/>
+<area shape="rect" id="node31" href="$threading_2SerialTypes_8h.html" title="threading/SerialTypes.h" alt="" coords="277,244,435,271"/>
+<area shape="rect" id="node36" href="$broker_2Manager_8h.html" title="broker/Manager.h" alt="" coords="2393,95,2516,121"/>
+<area shape="rect" id="node46" href="$logging_2Manager_8h.html" title="Manager.h" alt="" coords="1603,95,1685,121"/>
+<area shape="rect" id="node50" href="$WriterFrontend_8h.html" title="WriterFrontend.h" alt="" coords="2797,319,2915,345"/>
+<area shape="rect" id="node3" href="$net__util_8h.html" title="net_util.h" alt="" coords="723,319,797,345"/>
+<area shape="rect" id="node14" href="$util_8h.html" title="util.h" alt="" coords="1291,468,1341,495"/>
+<area shape="rect" id="node22" href="$List_8h.html" title="List.h" alt="" coords="1551,393,1606,420"/>
+<area shape="rect" id="node23" href="$Func_8h.html" title="Func.h" alt="" coords="429,319,491,345"/>
+<area shape="rect" id="node24" href="$RemoteSerializer_8h.html" title="RemoteSerializer.h" alt="" coords="1569,319,1703,345"/>
+<area shape="rect" id="node25" href="$IOSource_8h.html" title="iosource/IOSource.h" alt="" coords="1385,393,1527,420"/>
+<area shape="rect" id="node29" href="$PktSrc_8h.html" title="iosource/PktSrc.h" alt="" coords="1039,319,1166,345"/>
+<area shape="rect" id="node30" href="$PktDumper_8h.html" title="iosource/PktDumper.h" alt="" coords="1343,319,1495,345"/>
+<area shape="rect" id="node27" href="$MsgThread_8h.html" title="threading/MsgThread.h" alt="" coords="2700,468,2855,495"/>
+<area shape="rect" id="node28" href="$logging_2Component_8h.html" title="Component.h" alt="" coords="2498,468,2598,495"/>
+<area shape="rect" id="node33" href="$Type_8h.html" title="Type.h" alt="" coords="1879,319,1942,345"/>
+<area shape="rect" id="node42" href="$Store_8h.html" title="broker/Store.h" alt="" coords="1996,169,2100,196"/>
+<area shape="rect" id="node43" href="$Reporter_8h.html" title="Reporter.h" alt="" coords="2227,244,2309,271"/>
+<area shape="rect" id="node45" href="$Val_8h.html" title="Val.h" alt="" coords="1751,244,1803,271"/>
+<area shape="rect" id="node44" href="$EventHandler_8h.html" title="EventHandler.h" alt="" coords="2068,319,2180,345"/>
+<area shape="rect" id="node48" href="$Tag_8h.html" title="../Tag.h" alt="" coords="1277,244,1344,271"/>
+<area shape="rect" id="node49" href="$ComponentManager_8h.html" title="plugin/ComponentManager.h" alt="" coords="1733,169,1921,196"/>
+</map>
